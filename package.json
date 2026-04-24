@@ -1,0 +1,14 @@
+{
+  "name": "ticket-booking-automation",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript Ticket Booking Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "allure-playwright": "^3.7.1"
+  }
+}
