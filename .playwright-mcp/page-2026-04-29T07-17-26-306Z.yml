@@ -1,0 +1,8 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - strong [ref=e5]:
+      - heading "HOSTNAME" [level=2] [ref=e6]
+    - text: Your IP is 14.194.142.66
+  - link [ref=e9] [cursor=pointer]:
+    - /url: https://www.inmotionhosting.com
+    - img [ref=e10]
